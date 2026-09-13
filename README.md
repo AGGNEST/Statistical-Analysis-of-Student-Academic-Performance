@@ -27,11 +27,11 @@ The project investigates whether selected academic, demographic, and behavioral 
 # Project Report
 A detailed report containing the methodology, SAS code, statistical outputs, findings, interpretations, limitations, and recommendations is available below.
 
-**[📄 View Full Project Report](Statistical-Analysis-of-Student-Academic-Performance.pdf)**
+**[📄 View Full Project Report](Student_Performance_Statistical_Analysis_Report.pdf)**
 
 # Files
-* `Student-Academic-Performance.ipynb` — Project analysis
-* `Statistical-Analysis-of-Student-Academic-Performance.pdf` — Detailed project report
+* `Project_Code.sas` — Project analysis
+* `Student_Performance_Statistical_Analysis_Report.pdf` — Detailed project report
 
 # Author
-**Abdullah Al-Ghamdi**
+**Abdullah Alghamdi**
