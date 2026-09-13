@@ -23,7 +23,7 @@ The project investigates whether selected academic, demographic, and behavioral 
 
 # Tools
 * SAS
-* 
+
 # Project Report
 A detailed report containing the methodology, SAS code, statistical outputs, findings, interpretations, limitations, and recommendations is available below.
 
